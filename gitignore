@@ -1,0 +1,5 @@
+.terraform/
+.terraform.lock.hcl   # optional, some prefer to commit this
+*.tfstate
+*.tfstate.backup
+.DS_Store
